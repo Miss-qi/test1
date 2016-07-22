@@ -1,5 +1,5 @@
 'use strict';
-
++yanzi;
 function thousands_separators(num) {
    var ch = num.toString();
    var myArray=[];

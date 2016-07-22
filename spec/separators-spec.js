@@ -1,7 +1,7 @@
 var thousands_separators = require('../src/separators.js');
 
 describe('thousands_separators', function() {
-
++qqq
   it('when input less than thousand it should print correct text with one comma', function() {
     var input = 100;
     var expectText = '100';
